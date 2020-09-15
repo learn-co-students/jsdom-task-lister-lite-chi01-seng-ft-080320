@@ -16,13 +16,13 @@ main()
   })
   }
 
-  function createAlertBtnListener(){
-    const alertBtn = document.querySelector("#submitBtn")
-    alertBtn.addEventListener("click", function(){
-    alert("Whatever Bro")  
-    }
-    )
-  }
+  // function createAlertBtnListener(){
+  //   const alertBtn = document.querySelector("#submitBtn")
+  //   alertBtn.addEventListener("click", function(){
+  //   alert("Whatever Bro")  
+  //   }
+  //   )
+  // }
 
   function main(){
    createFormListener() 
